@@ -1,0 +1,5 @@
+numpy
+PyAstronomy
+scipy
+scikit-image
+opencv-python
